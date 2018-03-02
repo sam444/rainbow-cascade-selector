@@ -1,0 +1,19 @@
+{
+  "name": "rainbowui-cascade-selector",
+  "version": "2.0.0",
+  "description": "RainbowUI Cascade Selector",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "RainbowUI Team",
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oss.ebaotech.com/rainbow-ui/cascade-selector.git"
+  },
+  "dependencies": {
+    "rainbow-foundation-tools": "^2.0.0",
+    "rainbowui-core": "^2.0.0"
+  }
+}
